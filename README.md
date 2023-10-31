@@ -28,8 +28,11 @@ Follow these steps to set up and run the application:
 
    ```bash
    git clone https://github.com/yourusername/crud-mvc-app.git
-2. cd crud-mvc-app
-3. dotnet restore
+
+2. ```bash
+   cd crud-mvc-app
+3.  ```bash
+   dotnet restore
 ## Configuration
 Configure the application by:
 
