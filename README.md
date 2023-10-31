@@ -29,10 +29,14 @@ Follow these steps to set up and run the application:
    ```bash
    git clone https://github.com/yourusername/crud-mvc-app.git
 
-2. ```bash
+2. Navigate to the project directory:
+   ```bash
    cd crud-mvc-app
-3.  ```bash
-   dotnet restore
+   
+3. Install the required packages: 
+```bash
+dotnet restore
+
 ## Configuration
 Configure the application by:
 
