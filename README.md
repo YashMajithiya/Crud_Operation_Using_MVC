@@ -32,10 +32,10 @@ Follow these steps to set up and run the application:
 2. Navigate to the project directory:
    ```bash
    cd crud-mvc-app
-   
-3. Install the required packages: 
-```bash
-dotnet restore
+
+3. Install the required packages:
+   ```bash
+   dotnet restore
 
 ## Configuration
 Configure the application by:
